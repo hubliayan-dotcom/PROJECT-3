@@ -1,0 +1,10 @@
+{
+  "name": "VoltCast AI",
+  "description": "AI-Powered Energy Consumption Forecasting System using XGBoost and React. Predict electricity demand with high accuracy for smart grids and industrial facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Machine Learning",
+    "Data Visualization",
+    "Time-Series Forecasting"
+  ]
+}
