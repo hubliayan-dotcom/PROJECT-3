@@ -79,12 +79,8 @@ VoltCast-AI/
 
 ## 🏗️ System Architecture
 
-```mermaid
-flowchart LR
-    A[CSV Data] --> B[Node.js Backend]
-    B --> C[Gemini AI API]
-    C --> D[Forecast & Insights]
-    D --> E[React Dashboard]
+CSV Data → Node.js Backend → Gemini API → Forecast Output → React Dashboard
+
 
 ## 📊 Dashboard Components
 
